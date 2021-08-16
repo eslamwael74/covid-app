@@ -8,7 +8,7 @@ Covid is an sample iOS App written in Swift using the VIPER architecture.
 
 ## Sample App
 
-<img src="./READMEImages/screen_1"  width="50%"><img src="./READMEImages/screen_2"  width="50%"><img src="./READMEImages/screen_3.png"  width="50%">
+<img src="./READMEImages/screen_1.png"  width="25%"><img src="./READMEImages/screen_2.png"  width="25%"><img src="./READMEImages/screen_3.png"  width="25%">
 
 ### Architecture
 <img src="./READMEImages/viper.png" width="100%">
